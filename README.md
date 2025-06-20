@@ -1,7 +1,7 @@
 # I'm 07abrar!
 
 Welcome to my GitHub!🚀
-I am beginner in this field, everyday I solve interview question to solidify my skills.
+I am beginner in this field. Everyday I solve interview question to solidify my skills.
 
 ## 🌟 About Me
 - 🐍 I'm interested in **Python Development**
