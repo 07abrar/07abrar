@@ -10,8 +10,8 @@ I am beginner in this field. Everyday I solve interview question to solidify my 
 - 🌐 Currently learning **JavaScript** and **React**
 
 ## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=07abrar&show_icons=true&theme=github_light)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=07abrar&layout=compact&theme=github_light)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=07abrar&show_icons=true&theme=github_light&hide_border=true&width=400&height=200)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=07abrar&layout=compact&theme=github_light&hide_border=true&width=400&height=200)
 
 ## 🚀 Featured Projects
 - **[pinnton](https://github.com/07abrar/PINNs)**: A neural network framework for solving PDEs with style.
