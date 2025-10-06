@@ -6,8 +6,8 @@ I am beginner in this field. Everyday I solve interview question to solidify my 
 ## 🌟 About Me
 - 🐍 I'm interested in **Python Development**
 - 🧠 I am doing **Neural Network** for **PDEs**
-- 🌳 I am also working with **Decision Tree Algorithms**
-- 🌐 Currently learning **JavaScript** and **React**
+- 🌳 I am also working with **Decision Tree Algorithms**, **GNN**, and **CNN**
+- 🌐 Currently learning **JavaScript**, **React** and **Django REST framework**
 
 ## 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=07abrar&show_icons=true&theme=github_light&hide_border=true&width=400&height=200)
